@@ -1,0 +1,81 @@
+/*CSS LOGIN*/
+.form-login {
+	position: relative;
+	top: 180px;
+	background: white;
+	width: 40%;
+	margin: auto;
+	padding: 0px 0px 30px 0px;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+}
+.heading {
+	margin-bottom: 1em;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+	padding: 15px;
+	background: #f95252;
+	text-align: center;
+}
+.form-group {
+	padding: 0 15px;
+}
+label {
+	padding: 10px;
+}
+.form-group > input[type=text], input[type=password], .form-group {
+	padding: 0 10px;
+	color: currentColor;
+	font-weight: 600;
+}
+.btn-login {
+	font-size: 14px;
+	text-align: center; 
+}
+/*CATEGORY ADD*/
+.category-product {
+	background: white;
+	margin-top: 20px;
+	padding: 25px;
+}
+.text-add {
+	padding-bottom: 20px;
+	display: inline-block;
+	width: 30%;
+}
+.name-list-item td {
+	font-size: 15px;
+	text-align: center;
+	font-weight: bold;
+	text-transform: uppercase;
+	vertical-align: baseline !important;
+}
+.name-list-item > td > a {
+	padding: 5px;
+	color: black;
+
+}
+.heading > th {
+	text-align: center;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+}
+.name-list-item > td >img {
+	width: 50px;
+}
+.text-add > input[type=text] {
+	text-transform: uppercase;
+	color: #101010;
+	letter-spacing: 1px;
+	font-weight: 700;
+}
+.success {
+	color: #29C605;
+	font-weight: bold;
+	font-size: 20px;
+}
+.error {
+	font-weight: bold;
+	font-size: 20px;
+	color: #F81515;
+}
