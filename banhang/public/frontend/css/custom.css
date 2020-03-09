@@ -1,0 +1,18 @@
+.alert-warning{
+	color: red;
+	border-color: #FF0000;
+}
+.form-control
+{
+	color: black;
+	border-radius: 5px;
+}
+
+.tab-content>.active
+{
+	display: block;
+	background-color: white;
+	font-family: "arial";
+	text-align: justify;
+	color: #000000;
+}
