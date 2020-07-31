@@ -1,0 +1,154 @@
+@media only screen and (max-width: 1199px) {
+	.header__top, .header__bottom__menu {
+		display: block;
+	}
+	.content--uppercase {
+		font-size: 1.4rem;
+	}
+	.why__img--red {
+		height: 488px;
+	}
+	.why__lady {
+		margin-top: 95px;
+	}
+	.why__factorial__heading {
+		font-size: 2.3vw;
+	}
+	.why__factorial {
+		padding: 5% 0 0;
+	}
+	.why__img {
+		height: 490px;
+	}
+}
+@media only screen and (max-width: 991px) {
+	.header__top, .header__bottom__menu {
+		display: block;
+	}
+	.banner__img {
+		height: 58vh;
+	}
+	.header__top__left, .header__top__right {
+		font-size: 1.4vw;
+	}
+	.nav > li {
+		font-size: 1vw;
+	}
+	.form__img {
+		width: 68%;
+	}
+	.header__bottom__logo, .header__bottom__menu {
+		padding: .5rem 0;
+	} 
+	.why__factorial__img--icon{
+		width: 4rem;
+		height: 4rem;
+	}
+	.why__lady--img {
+		margin-top: 7.5rem;
+	}
+	.why__factorial {
+		padding: 3% 0 0;
+	}
+}
+@media only screen and (max-width: 767px) {
+	.introduce {
+		margin-bottom: 74px;
+	}
+	.introduce__text {
+		padding-bottom: 7%;
+	}
+	.why__factorial__heading, .why__factorial__img > a {
+		font-size: 1.9vw;
+	}
+	.why__factorial__img--icon {
+		width: 3rem;
+		height: 3rem;
+	}
+	.why__factorial__heading  {
+		line-height: 3rem;
+	}
+	.footer__box {
+		flex-direction: column;
+	}
+	.footer__right {
+		display: none;
+	}
+	.footer__left {
+		text-align: center;
+	}
+	.copyright {
+		flex-direction: column;
+	}
+	.footer__heading {
+		text-align: center;
+	}
+	.line__heading {
+		margin-left: 41%;
+	}
+	.cp--left, .cp--right {
+		text-align: center;
+		padding: 10px;
+	}
+	.form__img {
+		display: none;
+	}
+	.toogle--10 {
+		display: none;
+	}
+}
+@media only screen and (max-width: 575px) {
+	.header__top, .header__bottom__menu {
+		display: none;
+	}
+	.header__bottom__logo {
+		padding: 1rem 0;
+	}
+	.banner__img {
+		height: 48vh;
+	}
+	.why__lady--img {
+		margin-top: 3.5rem;
+	}
+	.form__img, .img__right {
+		display: none;
+	}
+	.img__respon {
+		display: block;
+	}
+	.toggle--10 {
+		display: block;
+	}
+	.why__box__img {
+		display: none;
+	}
+	.why__factorial__heading {
+		font-size: 3.5vw;
+		text-align: center;
+	}
+	.mxh {
+		width: 10%;
+	}
+	.why__factorial__box {
+		display: none;
+	}
+	.why__factorial__img {
+		display: flex;
+		flex-direction: column;
+		text-align: center;
+		float: left;
+	}
+	.why__factorial__img--mobile {
+		width: 6rem;
+		height: 6rem;
+	}
+	.why__factorial__img > a {
+		font-size: 4vw;
+	}
+	.why__factorial__box--mobile {
+		display: block;
+	}
+	.advisory {
+		padding: 40px 20px;
+	}
+}
